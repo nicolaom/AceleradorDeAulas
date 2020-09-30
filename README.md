@@ -26,3 +26,7 @@ Siga os seguintes passos
 4. Insira Y caso queira continuar com as configurações padrões ou N caso queira configurar
 
 O arquivo gerado será o nome do arquivo + _Novo.mp3
+
+## Doação
+Fiz e disponibilizei esse programa de maneira gratuita, considere realizar uma doação:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7JPZUC4JK7RJU
